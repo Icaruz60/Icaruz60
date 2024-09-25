@@ -1,4 +1,4 @@
-## Hi there 👋 This is Gerrit Vissers Github Profile
+## Hi there 👋 This is Gerrit Visser
 if awake: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;SolveProblems()<br />
 &nbsp;&nbsp;&nbsp;&nbsp;fallasleep()<br />
