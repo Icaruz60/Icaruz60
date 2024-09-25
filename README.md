@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Backend & Database Development
 - 📫 How to reach me: me@gerritvisser.de
 - ⚡ Fun fact: I made a whole game before touching HTML
-
+Here is a little insight in the assembly of my circuitboard:
 if awake: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;SolveProblems()<br />
 &nbsp;&nbsp;&nbsp;&nbsp;fallasleep()<br />
