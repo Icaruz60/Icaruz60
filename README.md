@@ -13,6 +13,6 @@ if awake: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;fallasleep()<br />
 if asleep:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;Dream("LeetCodeSolutions")<br />
+&nbsp;&nbsp;&nbsp;&nbsp;wakeup() <br />
 def Dream(content):<br />
 &nbsp;&nbsp;&nbsp;&nbsp;Brain.show(content)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;wakeup() <br />
