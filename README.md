@@ -7,7 +7,7 @@
 - 📫 How to reach me: me@gerritvisser.de
 - ⚡ Fun fact: I made a whole game before touching HTML<br />
 <br />
-Here is a little insight in the assembly of my circuitboard:<br />
+Here’s a glimpse into the assembly of my circuit board:<br />
 if awake: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;SolveProblems()<br />
 &nbsp;&nbsp;&nbsp;&nbsp;fallasleep()<br />
