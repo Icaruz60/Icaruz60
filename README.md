@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 This is Gerrit Vissers Github Profile
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Icaruz60)
 <!--
 **Icaruz60/Icaruz60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
