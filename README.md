@@ -1,5 +1,6 @@
 ## Hi there 👋 This is Gerrit Visser
-![LeetCode Stats](https://leetcard.jacoblin.cool/Icaruz60?theme=nord&font=Vollkorn&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Icaruz60?theme=nord&font=Vollkorn&ext=heatmap)
+<!-- old one: ![LeetCode Stats](https://leetcard.jacoblin.cool/Icaruz60?theme=nord&font=Vollkorn&ext=activity)-->
 <!-- https://leetcard.jacoblin.cool/ for custom leetcode stats    | shoutout to the creator: https://github.com/JacobLinCool/LeetCode-Stats-Card/tree/main -->
 
 - 🔭 I’m currently working on a personal website https://gerritvisser.de
