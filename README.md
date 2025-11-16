@@ -1,19 +1,47 @@
-## Hi there 👋 This is Gerrit Visser
-![LeetCode Stats](https://leetcard.jacoblin.cool/Icaruz60?theme=nord&font=Vollkorn&ext=heatmap)
-<!-- old one: ![LeetCode Stats](https://leetcard.jacoblin.cool/Icaruz60?theme=nord&font=Vollkorn&ext=activity)-->
-<!-- https://leetcard.jacoblin.cool/ for custom leetcode stats    | shoutout to the creator: https://github.com/JacobLinCool/LeetCode-Stats-Card/tree/main -->
+# 👋 Hey, I’m **Gerrit Visser**
 
-- 🔭 I’m currently working on a personal website https://gerritvisser.de
-- 🌱 I’m currently learning Backend & Database Development
-- 📫 How to reach me: me@gerritvisser.de
-- ⚡ Fun fact: I made a whole game before touching HTML<br />
-<br />
-Here’s a glimpse into the assembly of my circuit board:<br />
-if awake: <br />
-&nbsp;&nbsp;&nbsp;&nbsp;SolveProblems()<br />
-&nbsp;&nbsp;&nbsp;&nbsp;fallasleep()<br />
-if asleep:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;Dream("LeetCodeSolutions")<br />
-&nbsp;&nbsp;&nbsp;&nbsp;wakeup() <br />
-def Dream(content):<br />
-&nbsp;&nbsp;&nbsp;&nbsp;Brain.show(content)<br />
+### Building things I probably shouldn’t. Breaking things I definitely shouldn’t.
+
+**Software Developer • CS Student • Product Builder**
+
+I work at the intersection of clean engineering and reckless ambition.  
+Right now I’m building a personal digital ecosystem: apps, backend systems, and a portfolio that doesn’t look like it crawled out of 2012.
+
+---
+
+## 🚀 What I’m Working On
+- **Personal Website** – polishing the frontend, rewriting the backend, trying not to refactor myself into insanity  
+  🔗 https://gerritvisser.de
+- **Backend & Database Development** – leveling up my server-side architecture and SQL game  
+- **Long-term Projects** – mobile apps, automation systems, and a medieval city-builder game because I have zero self-control  
+
+---
+
+## 🧠 Tech I Actually Use
+**Languages:**  
+`TypeScript` · `JavaScript` · `Dart` · `Python` · `C#` · `SQL`
+
+**Frameworks & Tools:**  
+`React` · `Next.js` · `Expo` · `Flutter` · `Supabase` · `Node.js`  
+`PostgreSQL` · `Plesk` · `Docker` · `Prisma`
+
+**Other toys:**  
+Game dev prototypes, neon UI design, and the occasional regrettable hardware experiment.
+
+---
+
+## 🧩 How My Brain Works
+I like problems the way gym bros like leg day:  
+I complain about them constantly, but I keep coming back.
+
+```python
+while True:
+    if awake():
+        solve_problems()
+    else:
+        dream("unnecessarily complex solutions")
+
+📫 Contact
+
+Want to reach out? Brave choice.
+📧 me@gerritvisser.de
