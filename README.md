@@ -40,7 +40,7 @@ while True:
         solve_problems()
     else:
         dream("unnecessarily complex solutions")
-
+```
 📫 Contact
 
 Want to reach out? Brave choice.
