@@ -1,47 +1,32 @@
-# 👋 Hey, I’m **Gerrit Visser**
+# Gerrit Visser
 
-### Building things I probably shouldn’t. Breaking things I definitely shouldn’t.
+CS student from Germany, currently finishing my B.S. at Southeastern Louisiana University.  
+Doing a full stack internship at **Envoc** in Baton Rouge this semester — building microservices, digital wallet systems, and learning what production code actually looks like.
 
-**Software Developer • CS Student • Product Builder**
+I also run **icaruz Software**, where I build and ship my own apps.
 
-I work at the intersection of clean engineering and reckless ambition.  
-Right now I’m building a personal digital ecosystem: apps, backend systems, and a portfolio that doesn’t look like it crawled out of 2012.
-
----
-
-## 🚀 What I’m Working On
-- **Personal Website** – polishing the frontend, rewriting the backend, trying not to refactor myself into insanity  
-  🔗 https://gerritvisser.de
-- **Backend & Database Development** – leveling up my server-side architecture and SQL game  
-- **Long-term Projects** – mobile apps, automation systems, and a medieval city-builder game because I have zero self-control  
+🔗 [gerritvisser.de](https://gerritvisser.de) · [LinkedIn](https://www.linkedin.com/in/gerritfvisser/) · contact@gerritvisser.de
 
 ---
 
-## 🧠 Tech I Actually Use
-**Languages:**  
-`TypeScript` · `JavaScript` · `Dart` · `Python` · `C#` · `SQL`
+### What I'm working with
 
-**Frameworks & Tools:**  
-`React` · `Next.js` · `Expo` · `Flutter` · `Supabase` · `Node.js`  
-`PostgreSQL` · `Plesk` · `Docker` · `Prisma`
-
-**Other toys:**  
-Game dev prototypes, neon UI design, and the occasional regrettable hardware experiment.
+**Day job (Envoc):** C#, .NET, Azure, React, Mantine, Domain-Driven Design, CQRS  
+**Own projects:** TypeScript, React Native, Expo, Flutter, Supabase, Next.js, Tailwind  
+**Also used:** Unity, Python, Docker, PostgreSQL, Linux
 
 ---
 
-## 🧩 How My Brain Works
-I like problems the way gym bros like leg day:  
-I complain about them constantly, but I keep coming back.
+### Projects
 
-```python
-while True:
-    if awake():
-        solve_problems()
-    else:
-        dream("unnecessarily complex solutions")
-```
-📫 Contact
+**[Ascend](https://ascendapp.eu)** — A social media app built around productivity instead of doomscrolling. React Native + Expo + Supabase.
 
-Want to reach out? Brave choice.
-📧 me@gerritvisser.de
+**[TempoChores](https://github.com/Icaruz60/tempochores)** — Timed cleaning app that schedules your chores based on how much time you have. Flutter + Dart.
+
+**[MenuMate](https://menumate.gerritvisser.de)** — Interactive restaurant menus with smart filters. React + C# + Mantine.
+
+---
+
+### Path so far
+
+📍 Bocholt, DE → Marshall, MO → Hammond, LA → Baton Rouge, LA → ???
