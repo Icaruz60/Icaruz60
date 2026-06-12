@@ -25,20 +25,21 @@ I also build things under **[Icaruz Software](https://gerritvisser.de)** because
 ### Projects
 
 **[Ascend](https://ascendapp.eu)** *(WIP)*  
-Social app built around productivity instead of doomscrolling.  
+Social app built around productivity to fight doomscrolling and make productivity more fun and engaging.  
 `React Native` `Expo` `Supabase` `TypeScript` `OpenAI`
 
 **PodiumOS** *(WIP)*  
-Performance tracker for college throwers and coaches. Given I spent four years competing myself, I had opinions.  
-`React` `Vite` `Tailwind` `Supabase`
+Team management platform for college track and field programs: workout scheduling, athlete performance tracking, group messaging, and an AI-powered practice calendar. Built it after four years as a D1 hammer thrower watching coaches juggle spreadsheets and group texts to run a 100-person roster.  
+`React` `Expo` `Supabase`
+
+**Courtside Oracle** *(WIP)*  
+NBA game outcome predictor that runs daily, logs every prediction with a confidence score, and marks each one correct or incorrect after games finish. Accuracy tracked publicly.  
+`XGBoost` `SHAP` `Python` `Supabase` `GitHub Actions`
 
 **[IMASS Cloud](https://imass.gerritvisser.de)**  
 Led a 5-person team containerizing legacy Fortran science models into a cloud platform with a visual workflow builder. Helped secure $1.2M in US federal funding.  
 `React` `.NET` `Docker` `Azure`
 
-**Courtside Oracle** *(WIP)*  
-NBA game outcome predictor that runs daily, logs every prediction with a confidence score, and marks each one correct or incorrect after games finish. Accuracy tracked publicly.  
-`XGBoost` `SHAP` `Python` `Supabase` `GitHub Actions`
 
 **Wolf of AI Street**  
 EUR/USD trading bot trained on 5 years of OHLC data fused with GDELT news sentiment, 33k+ aligned time-series points. Iterated through three LSTM architectures.  
