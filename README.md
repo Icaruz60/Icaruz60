@@ -1,6 +1,7 @@
 # Gerrit Visser
 
 Software engineer from Bocholt, Germany. 
+
 B.S. CS, Southeastern Louisiana University, May 2026. Got there on a D1 athletic scholarship for hammer throw.
 
 Currently wrapping up my time at **Envoc** in Baton Rouge, where I've owned production microservices end-to-end. Most recently: a Wallet pass generator I built and shipped solo. 
