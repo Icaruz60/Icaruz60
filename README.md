@@ -55,6 +55,6 @@ Interactive restaurant menus with smart filters.
 
 ---
 
-### Path so far
+### My Path so far
 
 📍 Bocholt, DE → Marshall, MO → Hammond, LA → Baton Rouge, LA → ???
